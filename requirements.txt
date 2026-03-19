@@ -1,0 +1,9 @@
+gTTS==2.5.4
+ipython==8.12.3
+langchain==1.2.13
+langchain_core==1.2.20
+pydantic==2.12.5
+python-dotenv==1.2.2
+speechrecognition==3.15.1
+streamlit==1.55.0
+streamlit_mic_recorder==0.0.8
